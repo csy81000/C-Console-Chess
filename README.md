@@ -13,9 +13,9 @@
 
 | 1. 시작 화면 | 2. 게임 설명 화면 |
 | :---: | :---: |
-| <img src="docs/images/01_start.png" width="400" alt="Start Screen" /> | <img src="docs/images/02_rules.png" width="400" alt="Rules Screen" /> |
+| <img src="images/01_start.png" width="400" alt="Start Screen" /> | <img src="images/02_rules.png" width="400" alt="Rules Screen" /> |
 | **3. 말 선택 (이동 가능 경로 표시)** | **4. 말 이동 완료** |
-| <img src="docs/images/03_select.png" width="400" alt="Piece Selection" /> | <img src="docs/images/04_move.png" width="400" alt="Piece Moved" /> |
+| <img src="images/03_select.png" width="400" alt="Piece Selection" /> | <img src="images/04_move.png" width="400" alt="Piece Moved" /> |
 
 ## Features
 
