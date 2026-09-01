@@ -9,6 +9,19 @@
 | 진행 시기 | 2022년 1학년 2학기 |
 | 과목 | C언어 |
 
+## Gameplay
+
+<p align="center"><em>플레이 이미지가 추가될 자리입니다.</em></p>
+
+<!--
+플레이 이미지를 docs/images/gameplay.png로 추가한 뒤 위 안내 문구를 지우고
+아래 이미지 태그의 주석을 해제하세요.
+
+<p align="center">
+  <img src="docs/images/gameplay.png" alt="Console Chess gameplay" width="640">
+</p>
+-->
+
 ## Features
 
 - 로컬 2인 턴제 플레이
@@ -49,6 +62,7 @@ Windows 콘솔 API를 사용하므로 Windows 환경에서 실행해야 합니�
 c-console-chess/
 ├─ CMakeLists.txt
 ├─ console-chess.sln
+├─ docs/images/              # README용 플레이 이미지
 └─ src/
    ├─ console-chess.vcxproj
    ├─ main.c          # 메인 메뉴
